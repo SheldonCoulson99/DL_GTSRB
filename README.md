@@ -8,3 +8,6 @@ https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/GTSRB_Final
 
 The full commented source code is in:
 [COMP9444-noname team.ipynb]
+
+The report is:
+[Project Summary Report.pdf]
